@@ -5,11 +5,6 @@ import { Clock } from 'lucide-react';
 
 const horarios = [
   {
-    dia: 'Domingo',
-    hora: '7:00 PM',
-    actividad: 'Servicio Principal',
-  },
-  {
     dia: 'Martes',
     hora: '4:00 PM',
     actividad: 'Reunion de Oracion',
@@ -21,8 +16,13 @@ const horarios = [
   },
   {
     dia: 'Sábado',
-    hora: '6:00 PM',
+    hora: '8:00 PM',
     actividad: 'Reunion de Jovenes',
+  },
+  {
+    dia: 'Domingo',
+    hora: '7:00 PM',
+    actividad: 'Servicio Principal',
   },
 ];
 
