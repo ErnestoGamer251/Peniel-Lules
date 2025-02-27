@@ -19,8 +19,7 @@ const Header = () => {
           <ul className="flex gap-6">
             <li><a href="#que-hacemos" className="text-gray-600 hover:text-[#a950ce] transition-colors">Qué Hacemos</a></li>
             <li><a href="#valores" className="text-gray-600 hover:text-[#a950ce] transition-colors">Nuestro Valor</a></li>
-            <li><a href="#horarios" className="text-gray-600 hover:text-[#a950ce] transition-colors">Horarios</a></li>
-            <li><a href="#contacto" className="text-gray-600 hover:text-[#a950ce] transition-colors">Contacto</a></li>
+            <li><a href="#horarios" className="text-gray-600 hover:text-[#a950ce] transition-colors">Horarios</a></li>            <li><a href="#footer" className="text-gray-600 hover:text-[#a950ce] transition-colors">Contacto</a></li>
           </ul>
         </nav>
 
